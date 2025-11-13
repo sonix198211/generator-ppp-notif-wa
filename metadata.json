@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MikroTik Notifier Script Generator",
+  "description": "A dashboard to generate MikroTik router scripts for sending PPPoE user login/logout notifications via a WhatsApp API. Users can input their API details and instantly get a copy-paste ready script.",
+  "requestFramePermissions": []
+}
